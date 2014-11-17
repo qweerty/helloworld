@@ -1,3 +1,3 @@
 import this
 
-print('hello')
+print('Hello, World!')
